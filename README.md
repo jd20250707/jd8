@@ -12,4 +12,4 @@
 
 除了资源分类，优质站点通常提供在线播放和磁力下载两种方式，保证不同设备用户的需求，无论是在手机、平板还是电脑上，都能流畅观看。为了避免访问困难，许多站点会提供多个备用域名或镜像站点，防止主站被封锁。很多网站还使用海外服务器或CDN加速，确保视频加载和播放的稳定性。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link]( https://github.com/jd20250707/jd8 ）</span>
